@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\ADMIN\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\ADMIN\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\ADMIN\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+D:\bài tập visual\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+D:\bài tập visual\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+D:\bài tập visual\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+D:\bài tập visual\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
+D:\bài tập visual\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\bài tập visual\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+D:\bài tập visual\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
